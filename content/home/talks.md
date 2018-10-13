@@ -20,8 +20,7 @@ list_format = 0
 
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
-+++
-* Perks, M. and Whitson, J., “Counting, Categorizing, and Representing: Gender Diversity Initiatives in Canadian Game Industry Funding,” ReFiG 4.0: Places and Spaces, October 2018
++++* Perks, M. and Whitson, J., “Counting, Categorizing, and Representing: Gender Diversity Initiatives in Canadian Game Industry Funding,” ReFiG 4.0: Places and Spaces, October 2018
 
 * Perks, M. and Whitson, J., “Refuse, Remediate, REFIGure: Making Games Sustainable for Women: Indie Interfaces,” Digital Games Research Association Conference, July 2018.
 
