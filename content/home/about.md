@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Game Studies",
+    "Video Game Industry",
+    "Community Management",
+    "Representation in Games",
+    "Video Game Industry Regulation"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Sociology (in Progress)"
+  institution = "University of Waterloo"
+  year = 2021 (Expected)
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MA in Sociology"
+  institution = "Concordia University"
+  year = 2017
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Sociology"
+  institution = "Concordia University"
+  year = 2014
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Matthew E. Perks is a PhD student at the University of Waterloo in the department of Sociology & Legal Studies. His research focuses on the socio-economics of the video game industry and how these inform and alter the design decisions and identities of video game developers. He is currently researching and working with video game developers on projects about gender diversity policies in the arts funding, cultural intermediary work in the games industry, and how community management impacts video game development practices.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+His previous work during his Master's degree focused on data and gamification of pro-environmental behaviours in the Canadian population, utilizing aggregate population-level data across Canada. Matthew previously worked for the Public Health Agency of Canada where he worked on the Health Inequality Reporting Initative with the   Social Determinants and Science Integration Directorate.
