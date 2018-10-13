@@ -27,3 +27,6 @@ count = 5
 list_format = 2
 +++
 
+* [Limited Edition Loot Boxes: Problematic Gambling and Monetization](https://medium.com/the-cube/limited-edition-loot-boxes-problematic-gambling-and-monetization-756819f2c54f) on Medium.com (October 11th, 2016)
+
+* [Why a conversation around loot box regulation, responsibility, and harm needs to be happening](https://medium.com/@perks_matthew/why-a-conversation-around-loot-box-regulation-responsibility-and-harm-needs-to-be-happening-636acf0e99ba) on Medium.com (October 17th, 2017)
