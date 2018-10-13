@@ -1,0 +1,24 @@
++++
+# Date this page was created.
+date = 2016-04-27T00:00:00
+
+# Project title.
+title = "Refiguring Innovation in Games (ReFiG)"
+
+# Project summary to display on homepage.
+summary = "Composed of an international collective of scholars, community organizers and industry representatives, ReFiG is committed to promoting diversity and equity in the game industry and culture and effecting real change in a space that has been exclusionary to so many."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "refig.gif"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = [""]
+
+# Optional external URL for project (replaces project detail page).
+external_link = "http://www.refig.ca/"
+
+# Does the project detail page use math formatting?
+math = false
+
++++
