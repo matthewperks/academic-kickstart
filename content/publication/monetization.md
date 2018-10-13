@@ -2,7 +2,7 @@
 title = "How Does Games Journalism Impact Game Design Decisions? A Case Study of Monetization and Loot Boxes"
 
 # Date first published.
-date = "2018"
+date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Matthew Perks"]
@@ -19,14 +19,13 @@ authors = ["Matthew Perks"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In **Under Review. You may use *Markdown* for italics etc."
-publication_short = "In **Under Review"
+publication = "Under Review."
+publication_short = "Under Review"
 
 # Abstract and optional shortened version.
 abstract = "Games journalists influence the form games take, and identities of players, and the identities of game developers. However, very little work in Game Studies examines how the interplay of critical games journalism, and, games, developers, and independent actors. This paper argues that pragmatic sociology of critique, developed by Luc Boltanski, acts as theoretical framework for understanding these processes of critique, and helps us better understand journalists’ function within the video game industry. Applying this framework to a case study of monetization and ‘loot boxes,’ this paper emphasizes the role and power of journalistic critique in shaping gaming cultures, and the consumption and production of media more generally."
 
-# Featured image thumbnail (optional)
-image_preview = ""
+
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -48,9 +47,7 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = ""
+
 
 # Does the content use math formatting?
 math = true
@@ -58,11 +55,7 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+
 
 +++
 
