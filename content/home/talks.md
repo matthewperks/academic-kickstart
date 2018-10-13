@@ -22,7 +22,11 @@ list_format = 0
 exclude_selected = false
 +++
 * Perks, M. and Whitson, J., “Counting, Categorizing, and Representing: Gender Diversity Initiatives in Canadian Game Industry Funding,” ReFiG 4.0: Places and Spaces, October 2018
+
 * Perks, M. and Whitson, J., “Refuse, Remediate, REFIGure: Making Games Sustainable for Women: Indie Interfaces,” Digital Games Research Association Conference, July 2018.
+
 * Perks, M., “The Modern-Day Patch Note: Technical Communication to the Configuration of Player Communities,” Digital Games Research Association Conference, July 2018.
+
 * Perks, M., “The Role of Criticism in Shifting Monetization of Video Games,” Canadian Game Studies Association Annual Conference, May 2018.
+
 * Perks, M., “Gambling in Modern Virtual Economies, Unknowable, Unregulated, Unaccountable,” Canadian Game Studies Association Annual Conference, June 2017.
