@@ -100,7 +100,7 @@ enableGitInfo = false
   font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "Matthew E Perks is a PhD Student at the University of Waterloo in the department of Sociology & Legal Studies. His research focuses on the socio-economics of the video game industry and how these inform and alter the design decisions and identities of video game developers."
+  description = "Matthew E Perks is a PhD Student at the University of Waterloo in the department of Sociology & Legal Studies. His research focuses on digital game studies, specifically, the socio-economics of the video game industry and how these inform and alter the design decisions and identities of video game developers."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = "portrait.jpg"
