@@ -5,7 +5,7 @@ title = "Hosting a Symposium as Data Collection: Combining Para-site, Rapid Ethn
 date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Pierson Browne", "Brian Schram", "Jennifer Whitson", "Bart Simon", "Felan Parker", "**Matthew Perks**", "Ceyda Yolgormez", "Gabrielle Lavenir"]
+authors = ["Pierson Browne", "Brian Schram", "Jennifer Whitson", "Bart Simon", "Felan Parker", "**Matthew E. Perks**", "Ceyda Yolgormez", "Gabrielle Lavenir"]
 
 # Publication type.
 # Legend:
