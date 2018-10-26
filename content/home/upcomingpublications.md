@@ -11,3 +11,5 @@ weight = 21
 * Perks, M. Regulation in Modern Virtual Economies: Regulatory Pluralism and Capitalism in Monetization.
 
 * Perks, M. The Evolution of Patch Notes: Shifting Tools and Trades in Community Management.
+
+* Percy-Campbell, J. and Perks, M. Queer Surveillance and HIV-disclosure on Grindr.
