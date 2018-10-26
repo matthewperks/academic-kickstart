@@ -5,7 +5,7 @@ title = "How Does Games Journalism Impact Game Design Decisions? A Case Study of
 date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Matthew Perks"]
+authors = ["Matthew E. Perks"]
 
 # Publication type.
 # Legend:
