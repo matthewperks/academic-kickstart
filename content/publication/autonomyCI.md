@@ -2,7 +2,7 @@
 title = "Autonomy, Integration, and the Work of Cultural Intermediation in Indie Games"
 
 # Date first published.
-date = "2018-01-01"
+date = "2019-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Matthew E. Perks**", "Felan Parker", "Jennifer R. Whitson", "Bart Simon", "Gabrielle Lavenir", "Ceyda Yolgormez", "Pierson Browne", "Brian Schram"]
@@ -16,11 +16,11 @@ authors = ["**Matthew E. Perks**", "Felan Parker", "Jennifer R. Whitson", "Bart 
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Under Review."
-publication_short = "Under Review"
+publication = "Media Industries"
+publication_short = "Media Industries"
 
 # Abstract and optional shortened version.
 abstract = "Based on empirical research, this article addresses the role of cultural intermediaries in the production, distribution, and reception of independent or “indie” digital games. Festival and showcase curators, local community organizers, co-working space managers, promoters, critics, funders, granting agencies, and other support actors are central to sustaining indie game cultures, but are often overlooked. Our research makes visible the diverse taskscapes of cultural intermediaries and the wide variety of brokering, translating, value-ascribing, connection, and care work involved, and the attendant tensions and challenges they face. We contend that cultural intermediary work in the game industry is characterized by precarity, extensive and largely invisible behind-the-scenes work, complex networks of interdependence and support, blurred boundaries between the personal and the professional, and a delicate balance between autonomy and integration."
