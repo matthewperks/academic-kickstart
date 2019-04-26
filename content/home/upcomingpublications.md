@@ -8,8 +8,10 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 21
 +++
-* Perks, M. Regulation in Modern Virtual Economies: Regulatory Pluralism and Capitalism in Monetization.
 
-* Perks, M. The Evolution of Patch Notes: Shifting Tools and Trades in Community Management.
+
+* Perks, M. Cease and Desist, Citizens of Azeroth: Vanilla WoW Servers and Copyright Law.
+
+* Perks, M. Regulating In-Game Monetization: The Implications of Regulatory Pluralism on Games Production.
 
 * Percy-Campbell, J. and Perks, M. Queer Surveillance and HIV-disclosure on Grindr.
