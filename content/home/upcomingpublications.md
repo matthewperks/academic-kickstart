@@ -13,5 +13,3 @@ weight = 21
 * Perks, M. Cease and Desist, Citizens of Azeroth: Vanilla WoW Servers and Copyright Law.
 
 * Perks, M. Regulating In-Game Monetization: The Implications of Regulatory Pluralism on Games Production.
-
-* Percy-Campbell, J. and Perks, M. Queer Surveillance and HIV-disclosure on Grindr.
