@@ -26,6 +26,8 @@ count = 5
 #   2 = Stream
 list_format = 2
 +++
+* [Where is the “Authentic” LGBTQ Content in Games?](https://www.fanbyte.com/features/authentic-lgbtq-content-in-games/) on Fanbyte (May 8th, 2019)
+
 * [Creating and Queering Space with Player Housing](http://www.firstpersonscholar.com/creating-and-queering-space-with-player-housing/) on First Person Scholar (April 24th, 2019)
 
 * [Why a conversation around loot box regulation, responsibility, and harm needs to be happening](https://medium.com/@perks_matthew/why-a-conversation-around-loot-box-regulation-responsibility-and-harm-needs-to-be-happening-636acf0e99ba) on Medium.com (October 17th, 2017)
