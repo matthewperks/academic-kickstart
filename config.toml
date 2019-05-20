@@ -282,7 +282,7 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Writing"
+  name = "Other Work"
   url = "#posts"
   weight = 4
 
