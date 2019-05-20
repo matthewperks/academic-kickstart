@@ -5,7 +5,7 @@ widget = "posts"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Writing"
+title = "Other Work"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -26,10 +26,12 @@ count = 5
 #   2 = Stream
 list_format = 2
 +++
-* [Where is the “Authentic” LGBTQ Content in Games?](https://www.fanbyte.com/features/authentic-lgbtq-content-in-games/) on Fanbyte (May 8th, 2019)
+* 📰 [Where is the “Authentic” LGBTQ Content in Games?](https://www.fanbyte.com/features/authentic-lgbtq-content-in-games/) on Fanbyte (May 8th, 2019)
 
-* [Creating and Queering Space with Player Housing](http://www.firstpersonscholar.com/creating-and-queering-space-with-player-housing/) on First Person Scholar (April 24th, 2019)
+* 📰 [Creating and Queering Space with Player Housing](http://www.firstpersonscholar.com/creating-and-queering-space-with-player-housing/) on First Person Scholar (April 24th, 2019)
 
-* [Why a conversation around loot box regulation, responsibility, and harm needs to be happening](https://medium.com/@perks_matthew/why-a-conversation-around-loot-box-regulation-responsibility-and-harm-needs-to-be-happening-636acf0e99ba) on Medium.com (October 17th, 2017)
+* 🎙 [I Dream of Daddies: Questioning the Queer Logic of Dream Daddy](http://www.firstpersonscholar.com/first-person-podcast-episode-26/) on First Person Podcast (March 2nd, 2018)
 
-* [Limited Edition Loot Boxes: Problematic Gambling and Monetization](https://medium.com/the-cube/limited-edition-loot-boxes-problematic-gambling-and-monetization-756819f2c54f) on Medium.com (October 11th, 2016)
+* 📰 [Why a conversation around loot box regulation, responsibility, and harm needs to be happening](https://medium.com/@perks_matthew/why-a-conversation-around-loot-box-regulation-responsibility-and-harm-needs-to-be-happening-636acf0e99ba) on Medium.com (October 17th, 2017)
+
+* 📰 [Limited Edition Loot Boxes: Problematic Gambling and Monetization](https://medium.com/the-cube/limited-edition-loot-boxes-problematic-gambling-and-monetization-756819f2c54f) on Medium.com (October 11th, 2016)
