@@ -1,5 +1,5 @@
 +++
-title = "How Does Games Journalism Impact Game Design Decisions? A Case Study of Monetization and Loot Boxes"
+title = "How Does Games Critique Impact Game Design Decisions? A Case Study of Monetization and Loot Boxes"
 
 # Date first published.
 date = "2018-01-01"
@@ -16,11 +16,11 @@ authors = ["Matthew E. Perks"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Under Review."
-publication_short = "Under Review"
+publication = "Accepted."
+publication_short = "Accepted"
 
 # Abstract and optional shortened version.
 abstract = "Games journalists influence the form games take, and identities of players, and the identities of game developers. However, very little work in Game Studies examines how the interplay of critical games journalism, and, games, developers, and independent actors. This paper argues that pragmatic sociology of critique, developed by Luc Boltanski, acts as theoretical framework for understanding these processes of critique, and helps us better understand journalists’ function within the video game industry. Applying this framework to a case study of monetization and ‘loot boxes,’ this paper emphasizes the role and power of journalistic critique in shaping gaming cultures, and the consumption and production of media more generally."
