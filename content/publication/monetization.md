@@ -2,7 +2,7 @@
 title = "How Does Games Critique Impact Game Design Decisions? A Case Study of Monetization and Loot Boxes"
 
 # Date first published.
-date = "2018-01-01"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Matthew E. Perks"]
