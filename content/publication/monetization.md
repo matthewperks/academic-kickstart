@@ -2,7 +2,7 @@
 title = "How Does Games Critique Impact Game Design Decisions? A Case Study of Monetization and Loot Boxes"
 
 # Date first published.
-date = "2019-01-01"
+date = "2019-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Matthew E. Perks"]
@@ -19,8 +19,8 @@ authors = ["Matthew E. Perks"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Accepted."
-publication_short = "Accepted"
+publication = "Games and Culture"
+publication_short = "Games and Culture"
 
 # Abstract and optional shortened version.
 abstract = "Games journalists influence the form games take, and identities of players, and the identities of game developers. However, very little work in Game Studies examines how the interplay of critical games journalism, and, games, developers, and independent actors. This paper argues that pragmatic sociology of critique, developed by Luc Boltanski, acts as theoretical framework for understanding these processes of critique, and helps us better understand journalists’ function within the video game industry. Applying this framework to a case study of monetization and ‘loot boxes,’ this paper emphasizes the role and power of journalistic critique in shaping gaming cultures, and the consumption and production of media more generally."
@@ -38,14 +38,14 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "static/files/How_Does_Games_Critique_Impact_Game_Design_Decisions_Pre_Print.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://journals.sagepub.com/doi/10.1177/1555412019865848"
 
 
 
