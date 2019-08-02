@@ -37,7 +37,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://journals.sagepub.com/doi/10.1177/1555412019865848"
 url_preprint = "static/files/How_Does_Games_Critique_Impact_Game_Design_Decisions_Pre_Print.pdf"
 url_code = ""
 url_dataset = ""
@@ -45,7 +45,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://journals.sagepub.com/doi/10.1177/1555412019865848"
+url_source = ""
 
 
 
