@@ -11,7 +11,7 @@ weight = 5
 
 # About Me
 
-Matthew E. Perks is a PhD student at the [University of Waterloo](https://uwaterloo.ca/) in the department of [Sociology & Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/). He is a research assistant affiliated with SSHRC-funded digital game studies projects [Indie Interfaces](https://www.indieinterfaces.com/) and [ReFiguring Innovation in Games (ReFiG)](http://www.refig.ca/).
+Matthew E. Perks is a PhD student at the [University of Waterloo](https://uwaterloo.ca/) in the department of [Sociology & Legal Studies](https://uwaterloo.ca/sociology-and-legal-studies/). He is a research assistant affiliated with SSHRC-funded digital game studies project [Indie Interfaces](https://www.indieinterfaces.com/).
 
 His research focuses on the socio-economics of the video game industry and how these inform and alter the design decisions and identities of video game developers. His interests surround community management & moderation, platform capitalism, and labour within the video game industry. In his doctoral work, he focuses on the increasingly embedded nature of community management in game development and how this impacts media creation and developer identity.
 
