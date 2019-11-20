@@ -21,6 +21,12 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
+* Perks, M. and Parker, F., “Balancing Emotional Labor, Autonomy, and Integration in the Cultural Intermediation of Indie Games” 2019 Meeting of the Society for the Social Studies of Science, September 2019.
+
+* Perks, M. and Parker, F., “Are game streamers cultural intermediaries?: Perceptions from independent game developers” 2019 Canadian Sociological Association (CSA-SCS) Conference, June 2019.
+
+* Perks, M., “Regulation in Modern Virtual Economies: Regulatory Pluralism and Capitalism in Monetization” Canadian Game Studies Association Annual Conference, June 2019.
+
 * Perks, M. and Whitson, J., “Counting, Categorizing, and Representing: Gender Diversity Initiatives in Canadian Game Industry Funding,” ReFiG 4.0: Places and Spaces, October 2018
 
 * Perks, M. and Whitson, J., “Refuse, Remediate, REFIGure: Making Games Sustainable for Women: Indie Interfaces,” Digital Games Research Association Conference, July 2018.
