@@ -2,7 +2,7 @@
 title = "Autonomy, Integration, and the Work of Cultural Intermediation in Indie Games"
 
 # Date first published.
-date = "2018-01-01"
+date = "2019-12-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Matthew E. Perks**", "Felan Parker", "Jennifer R. Whitson", "Bart Simon", "Gabrielle Lavenir", "Ceyda Yolgormez", "Pierson Browne", "Brian Schram"]
@@ -37,7 +37,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://quod.lib.umich.edu/m/mij/15031809.0006.202?view=text;rgn=main"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
