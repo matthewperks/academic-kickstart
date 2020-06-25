@@ -38,7 +38,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "https://www.tandfonline.com/doi/full/10.1080/01490400.2020.1773999"
-url_preprint = "static/files/Perks_Community Management and Self Isolation.pdf"
+url_preprint = "static/files/Perks_Community_Management_and_Self_Isolation.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
